@@ -1,0 +1,267 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+   Sat 01/17/2026 13:07:29.71 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 1 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 to Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using destination: Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 1:07:32 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\meta.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\thumbnail.png 80%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.55 m    1.55 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1634510000 Bytes/sec.
+   Speed :            93527.412 MegaBytes/min.
+   Ended : Saturday, January 17, 2026 1:07:32 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 to "Editor\Mods"\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using destination: Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 1:07:34 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   14586	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         6         6         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    14.2 k    14.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, January 17, 2026 1:07:34 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 to Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using destination: Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 1:07:36 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11910	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\meta.lsx100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\mod_publish_logo.png 48%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\GUI\metadata.lsf100%  
+	    New File  		    1501	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    1.57 m    1.57 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1648351000 Bytes/sec.
+   Speed :            94319.400 MegaBytes/min.
+   Ended : Saturday, January 17, 2026 1:07:36 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 to Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[DEBUG] Using destination: Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Saturday, January 17, 2026 1:07:37 PM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+     Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   10501	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         5         5         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    10.2 k    10.2 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : Saturday, January 17, 2026 1:07:37 PM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
