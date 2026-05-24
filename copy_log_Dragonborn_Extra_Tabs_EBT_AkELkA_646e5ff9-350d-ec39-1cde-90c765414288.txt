@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288 
-   Mon 05/25/2026  1:06:27.81 
+   Mon 05/25/2026  1:07:14.83 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 25, 2026 1:06:40 AM
+  Started : Monday, May 25, 2026 1:07:17 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Projects\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1634510000 Bytes/sec.
    Speed :            93527.412 MegaBytes/min.
-   Ended : Monday, May 25, 2026 1:06:40 AM
+   Ended : Monday, May 25, 2026 1:07:17 AM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 25, 2026 1:06:42 AM
+  Started : Monday, May 25, 2026 1:07:19 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Editor\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
 
@@ -124,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    14.2 k    14.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 25, 2026 1:06:42 AM
+   Ended : Monday, May 25, 2026 1:07:19 AM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 25, 2026 1:06:44 AM
+  Started : Monday, May 25, 2026 1:07:20 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
 
@@ -161,7 +161,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   11910	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\meta.lsx100%  
-	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\mod_publish_logo.png 64%  100%  
+	    New File  		   1.5 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\mod_publish_logo.png 48%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\GUI\metadata.lsf100%  
 	    New File  		    1501	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Localization\English\english.xml100%  
 
@@ -176,7 +176,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           1648351000 Bytes/sec.
    Speed :            94319.400 MegaBytes/min.
-   Ended : Monday, May 25, 2026 1:06:44 AM
+   Ended : Monday, May 25, 2026 1:07:20 AM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +202,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, May 25, 2026 1:06:45 AM
+  Started : Monday, May 25, 2026 1:07:22 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
      Dest : C:\GIT_BG3\MOD_REPOS\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\Public\Dragonborn_Extra_Tabs_EBT_AkELkA_646e5ff9-350d-ec39-1cde-90c765414288\
 
@@ -221,7 +221,11 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    10.2 k    10.2 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Monday, May 25, 2026 1:06:45 AM
+
+
+   Speed :            10501000 Bytes/sec.
+   Speed :             600.872 MegaBytes/min.
+   Ended : Monday, May 25, 2026 1:07:22 AM
 
  
 [DEBUG] Counting source files 
